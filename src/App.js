@@ -20,6 +20,9 @@ export default function Home() {
           <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
             <Button><FileText className="mr-2 h-4 w-4" /> Resume</Button>
           </a>
+          <a href="portfolio.html">
+            <Button>Portfolio</Button>
+          </a>
         </div>
 
         <section className="space-y-6">
